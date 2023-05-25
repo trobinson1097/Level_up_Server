@@ -1,0 +1,28 @@
+[
+    {
+        "model": "levelupapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Crash Bandicoot",
+            "maker": "someone",
+            "number_of_players": 5,
+            "skill_level": 3,
+            "gamer": 1,
+            "game_type": 3
+        }
+    },
+    
+    {
+        "model": "levelupapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Uno",
+            "maker": "Uno inc",
+            "number_of_players": 6,
+            "skill_level": 4,
+            "gamer": 1,
+            "game_type": 1
+            }
+    }
+
+]
